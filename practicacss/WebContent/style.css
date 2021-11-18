@@ -29,3 +29,9 @@ a:visited {
 	background-color: blue;
 	color: white;
 }
+.img {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	text-align: right;
+}
