@@ -1,1 +1,21 @@
 @charset "UTF-8";
+.h1 h1::first-letter {
+	color: black;
+    font-size: 200%;
+}
+h1 {
+	color: blue;
+	text-align: center;
+}
+.h2 sobre::hover {
+	color: red;
+	background-color: yellow;
+}
+h2 {
+	color: blue;
+	text-align: center;
+}
+
+.p1 p::first-line {
+	color: red;
+}
