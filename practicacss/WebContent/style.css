@@ -7,7 +7,7 @@ h1 {
 	color: blue;
 	text-align: center;
 }
-.h2 sobre::hover {
+.h2 h2:hover {
 	color: red;
 	background-color: yellow;
 }
